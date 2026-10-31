@@ -19,7 +19,7 @@ AI Aimbot for Warface
 
 По всем вопросам приобретения и установки — обращайтесь в Telegram:
 
-👉 [@scarzy4738](https://t.me/u3kn1wn)
+👉 [@u3kn1wn](https://t.me/u3kn1wn)
 
 ## Требования
 
